@@ -1,0 +1,34 @@
+body{
+    background-color: aliceblue;
+    text-align: center;
+}
+a:hover {
+    color: #f0f0f0;
+  }
+
+.fa {
+padding: 1000px;
+font-size: 1000000px;
+width: 500px;
+text-align: center;
+text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+opacity: 0.1;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-linkedin {
+background: #3B5998;
+color: white;
+}
+
+/* Twitter */
+.fa-github {
+background: #55ACEE;
+color: white;
+}

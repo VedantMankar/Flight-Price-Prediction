@@ -28,20 +28,20 @@ A web app was created using flask. The web app looks like this ->
 # Running the app
 
 ## Installing prerequisites
-First download the trained model
+* First download the trained model
 ```
 random_model.pkl
 ```
 
-download the template and static folder
+* download the template and static folder
 
 
-download all the libraries in requirements.txt
+* download all the libraries in requirements.txt
 ```
  pip install -r requirements.txt
 ```
 
-run the command
+* run the command
 
 ```
  python app.py
